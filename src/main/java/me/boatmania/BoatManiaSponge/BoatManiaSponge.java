@@ -1,0 +1,8 @@
+package me.boatmania.BoatManiaSponge;
+
+public class BoatManiaSponge {
+
+    public static void main(String[] args) {
+        System.out.println("Hi");
+    }
+}
